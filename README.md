@@ -1,2 +1,2 @@
-# Aula01-Ferramentas_matematicas_aplicacadas
+# Aula01-Ferramentas_matemáticas_aplicacadas
  Feitas na linguagem Python
